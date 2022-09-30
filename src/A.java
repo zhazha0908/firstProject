@@ -38,6 +38,7 @@ public class A {
         }
         for (int i = objects.size() - 1; i >= 0; i--) {
             System.out.println(1);
+            System.out.println(2);
         }
     }
 }
